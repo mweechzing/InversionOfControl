@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversionOfControl", "InversionOfControl\InversionOfControl.csproj", "{7D293129-0F35-46F5-8557-5619943CB154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversionOfControl.Tests", "InversionOfControl.Tests\InversionOfControl.Tests.csproj", "{AAA0D108-C745-43EB-81C4-0463B3352869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D293129-0F35-46F5-8557-5619943CB154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D293129-0F35-46F5-8557-5619943CB154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D293129-0F35-46F5-8557-5619943CB154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D293129-0F35-46F5-8557-5619943CB154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA0D108-C745-43EB-81C4-0463B3352869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA0D108-C745-43EB-81C4-0463B3352869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA0D108-C745-43EB-81C4-0463B3352869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA0D108-C745-43EB-81C4-0463B3352869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB26235-7BD6-40C7-9324-9F32F9E6AFFC}
+	EndGlobalSection
+EndGlobal
